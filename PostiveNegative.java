@@ -14,7 +14,7 @@ class software
 		 }
 		 else if (a>0)
 		 {	
-			System.out.println("Postive");
+			System.out.println("Positive");
 		 }
 		 else 
 		{
